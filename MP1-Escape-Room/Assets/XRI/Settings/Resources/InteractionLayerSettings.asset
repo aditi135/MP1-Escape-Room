@@ -15,9 +15,9 @@ MonoBehaviour:
   m_LayerNames:
   - Default
   - key1
-  - 
-  - 
-  - 
+  - Socket1Layer
+  - Socket2Layer
+  - Socket3Layer
   - 
   - 
   - 
